@@ -1,1 +1,0 @@
-# bengattathadjali.github.io
