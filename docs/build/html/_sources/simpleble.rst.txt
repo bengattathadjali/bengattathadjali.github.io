@@ -1,5 +1,5 @@
 Documentation
-=============
+=================
 
 The ``SimpleBleClient`` class
 *****************************
@@ -30,3 +30,5 @@ The ``SimpleBleNotificationDelegate`` class
     :members:
     :undoc-members:
     :show-inheritance:
+
+    
